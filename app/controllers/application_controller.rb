@@ -1,3 +1,4 @@
 class ApplicationController < ActionController::Base
-  protect_from_forgery
+ #myyyyyyyyyyy
+ protect_from_forgery
 end
